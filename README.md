@@ -23,5 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mekapilgupta&show_icons=true&locale=en" alt="mekapilgupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mekapilgupta&" alt="mekapilgupta" /></p>
-[![An image of @mekapilgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mekapilgupta)](https://holopin.io/@mekapilgupta)
+[![An image of @mekapilgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mekapilgupta)]
 
